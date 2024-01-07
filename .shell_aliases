@@ -1,0 +1,40 @@
+# Variables
+
+
+# Editor
+alias vim="nvim"
+
+# Edit this file
+alias ali="nvim $HOME/.shell_aliases"
+alias aliup="source $HOME/.shell_aliases"
+
+# Edit .bashrc
+
+alias rce="nvim $HOME/.zshrc"
+alias rcup="source $HOME/.zshrc"
+
+# Directory shortcuts
+
+alias rep="cd $HOME/Repos"
+
+# Terminal listings
+alias ls='ls --color=auto'
+#alias dir='dir --color=auto'
+#alias vdir='vdir --color=auto'
+alias lsa='ls -a --color=auto'
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Command line programs that need colors
+
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+alias diff='diff --color=auto'
+alias ip='ip --color=auto'
+
+# Update system
+
+
+
